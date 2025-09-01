@@ -1,0 +1,152 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "daniel@example.com",
+      "created_at": "2025-06-30T12:34:56Z"
+    },
+    {
+      "id": "2",
+      "email": "z@z.com",
+      "created_at": "2025-07-09T23:45:01.346Z"
+    },
+    {
+      "id": "2",
+      "created_at": "2025-07-10T23:40:01.562Z"
+    },
+    {
+      "id": "2",
+      "email": "w@w.com",
+      "created_at": "2025-07-11T00:35:53.784Z"
+    },
+    {
+      "id": "2",
+      "email": "p@gmail.com",
+      "created_at": "2025-07-11T06:34:42.097Z"
+    }
+  ],
+  "advertisings": [
+    {
+      "id": "102",
+      "title": "ואווו",
+      "description": "ואאאאאאאאאאאאו",
+      "image_url": "https://c8.alamy.com/comp/2JGAGMN/siddur-jewish-prayer-book-on-tallit-2JGAGMN.jpg",
+      "creator_user_id": 4,
+      "created_at": "2025-07-09T16:51:22.052Z"
+    },
+    {
+      "id": "58",
+      "title": "מכונה ברד",
+      "description": "מהיר וקליל",
+      "image_url": "https://c8.alamy.com/comp/2JGAGMN/siddur-jewish-prayer-book-on-tallit-2JGAGMN.jpg",
+      "creator_user_id": 2,
+      "created_at": "2025-07-11T05:58:54.713Z"
+    },
+    {
+      "id": "7",
+      "title": "מכונת גלידה להשכרה ",
+      "description": "כל סוגי הגלידות ניתנות להכנה",
+      "image_url": "https://c8.alamy.com/comp/2JGAGMN/siddur-jewish-prayer-book-on-tallit-2JGAGMN.jpg",
+      "creator_user_id": 2,
+      "created_at": "2025-07-11T06:27:19.729Z"
+    },
+    {
+      "id": 55,
+      "title": "מכונת אייס קפה",
+      "description": "טעים בטירוףף",
+      "image_url": "https://c8.alamy.com/comp/2JGAGMN/siddur-jewish-prayer-book-on-tallit-2JGAGMN.jpg",
+      "creator_user_id": 2,
+      "created_at": "2025-07-12T19:37:05.289Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "202",
+      "ad_id": 102,
+      "user_id": 1,
+      "rating": 4,
+      "comment": "שינוי הצבע עובד מדהים! אבל טיפה חזקות לי ברגל.",
+      "created_at": "2025-07-01T11:45:00Z"
+    },
+    {
+      "id": "203",
+      "ad_id": 103,
+      "user_id": 2,
+      "rating": 5,
+      "comment": "הכרית הזאת נותנת לי חיבוק אמיתי לפני שינה. קסם!",
+      "created_at": "2025-07-01T12:00:00Z"
+    },
+    {
+      "id": "930c",
+      "ad_id": 101,
+      "user_id": 2,
+      "rating": 123,
+      "comment": "בוא נראה",
+      "created_at": "2025-07-09T23:49:59.072Z"
+    },
+    {
+      "id": "b525",
+      "ad_id": 101,
+      "user_id": 2,
+      "rating": 77,
+      "comment": "מיוחדדד במיוחד",
+      "created_at": "2025-07-10T14:14:15.905Z"
+    },
+    {
+      "id": "8af2",
+      "ad_id": "102",
+      "user_id": 2,
+      "rating": 5,
+      "comment": "גמני חושבת שזה ואוו",
+      "created_at": "2025-07-11T00:26:12.547Z"
+    },
+    {
+      "id": "647b",
+      "ad_id": "99",
+      "user_id": 2,
+      "rating": 4,
+      "comment": "אין כמו הבטטות של בטטיה",
+      "created_at": "2025-07-11T00:34:05.981Z"
+    },
+    {
+      "id": "6c8f",
+      "ad_id": "45",
+      "user_id": 2,
+      "rating": 2,
+      "comment": "חיחיחיחי",
+      "created_at": "2025-07-11T00:34:39.492Z"
+    },
+    {
+      "id": "7411",
+      "ad_id": "102",
+      "user_id": 3,
+      "rating": 2,
+      "comment": "נראה נראה נראה ",
+      "created_at": "2025-07-11T00:36:39.023Z"
+    },
+    {
+      "id": "7ddc",
+      "ad_id": "102",
+      "user_id": 2,
+      "rating": 4,
+      "comment": "קסום ביותר",
+      "created_at": "2025-07-11T05:55:56.585Z"
+    },
+    {
+      "id": "d09e",
+      "ad_id": "102",
+      "user_id": 2,
+      "rating": 4,
+      "comment": "נהניתי ממש",
+      "created_at": "2025-07-11T06:32:48.952Z"
+    },
+    {
+      "id": "cd06",
+      "ad_id": "102",
+      "user_id": 2,
+      "rating": 4,
+      "comment": "מקסים",
+      "created_at": "2025-07-12T19:37:54.628Z"
+    }
+  ]
+}
